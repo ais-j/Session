@@ -12,9 +12,6 @@
 #+OPTIONS: title:nil
 :END:
 
-* TODO [#A] git lecture part 2
-SCHEDULED: <2021-11-18 Thu 7:00>
-
 * introduction
 
 後半である第二回は、思想？編として、why の部分をすこし掘りさげる。
